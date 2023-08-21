@@ -1,7 +1,5 @@
 # Daily CodeWars Challenges
 
-![CodeWars Logo](https://www.codewars.com/assets/logos/logo-square-red-big-cabf5ce7786efcd8088aec5e77d0e7c6.png)
-
 Welcome to my repository of Daily CodeWars Challenges! Here, I'll be documenting and sharing the coding challenges I tackle every day on CodeWars. CodeWars is a platform that offers a variety of coding challenges in different programming languages, allowing me to practice and sharpen my coding skills.
 
 ## What is CodeWars?
